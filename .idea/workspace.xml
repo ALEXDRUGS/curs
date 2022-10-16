@@ -2,20 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b552764c-ec37-404f-9b5b-52f7f0c6f4ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Employee.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/employees/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employees/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/employees/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employees/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -31,8 +39,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Alex/IdeaProjects/Classes"
+    "last_opened_file_path": "C:/Users/Alex/IdeaProjects/TasksOfIncreasedComplexity"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,11 +52,68 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664797092535</updated>
-      <workItem from="1664797097519" duration="418000" />
+      <workItem from="1664797097519" duration="17289000" />
+      <workItem from="1664972898197" duration="14108000" />
+      <workItem from="1665048994318" duration="45638000" />
+      <workItem from="1665225868136" duration="15317000" />
+      <workItem from="1665848673320" duration="14826000" />
+      <workItem from="1665906958325" duration="1534000" />
     </task>
+    <task id="LOCAL-00001" summary="source">
+      <created>1664797621436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664797621436</updated>
+    </task>
+    <task id="LOCAL-00002" summary="курсовая">
+      <created>1665228306676</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665228306676</updated>
+    </task>
+    <task id="LOCAL-00003" summary="курсовая">
+      <created>1665228421309</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665228421309</updated>
+    </task>
+    <task id="LOCAL-00004" summary="курсовая">
+      <created>1665757602261</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665757602261</updated>
+    </task>
+    <task id="LOCAL-00005" summary="курсовая переделал в третий раз">
+      <created>1665867173287</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665867173287</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="source" />
+    <MESSAGE value="курсовая" />
+    <MESSAGE value="курсовая переделал в третий раз" />
+    <option name="LAST_COMMIT_MESSAGE" value="курсовая переделал в третий раз" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
